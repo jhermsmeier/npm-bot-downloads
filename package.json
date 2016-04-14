@@ -1,0 +1,26 @@
+{
+  "name": "09aac0b7d986b720253a65a47d1fd3d9",
+  "version": "1.0.0",
+  "description": "Attempt to measure how many npm downloads per month on npm are bots",
+  "license": "MIT",
+  "keywords": [],
+  "main": "index.js",
+  "author": {
+    "name": "Jonas Hermsmeier",
+    "email": "jhermsmeier@gmail.com",
+    "url": "https://jhermsmeier.de"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "homepage": "https://github.com/jhermsmeier/npm-bot-downloads",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jhermsmeier/npm-bot-downloads.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jhermsmeier/npm-bot-downloads/issues"
+  }
+}
